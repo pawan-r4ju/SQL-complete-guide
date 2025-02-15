@@ -1,4 +1,4 @@
-## SQL DML (Data Manipulation Language) Statements
+# SQL DML (Data Manipulation Language) Statements
 
 DML (Data Manipulation Language) is used to interact with data in a database, including retrieving, inserting, updating, and deleting records.
 
