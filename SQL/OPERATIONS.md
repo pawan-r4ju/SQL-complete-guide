@@ -32,7 +32,7 @@ SQL operators are symbols or keywords that perform operations on data. They are 
 | Operator | Description | Example |
 |----------|-------------|---------|
 | `&` | Bitwise AND | `SELECT 5 & 3; → 1` |
-| `|` | Bitwise OR | `SELECT 5 | 3; → 7` |
+| `|` | Bitwise OR| | `SELECT 5 `|` 3; → 7` |
 | `^` | Bitwise XOR | `SELECT 5 ^ 3; → 6` |
 | `~` | Bitwise NOT | `SELECT ~5; → -6` |
 | `<<` | Bitwise left shift | `SELECT 5 << 1; → 10` |
