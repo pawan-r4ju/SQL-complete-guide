@@ -88,7 +88,6 @@
 
 ## Summary Table
 
-
 | Function Type | Function | Purpose |
 |--------------|---------|---------|
 | **Aggregate** | COUNT | Counts rows |
